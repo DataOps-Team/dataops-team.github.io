@@ -1,7 +1,7 @@
 ---
 title: 
-author: 
-date: {{date}}
+author: JQ.Yu
+date: 
 aliases: 
 category: 
 tags: 
